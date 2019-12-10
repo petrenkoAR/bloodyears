@@ -1,2 +1,8 @@
 @import "reset.css";
 @import url('https://fonts.googleapis.com/css?family=Roboto:900&display=swap');
+
+body {
+  font-style: 'Roboto', sans-serif;
+  font-weight: 900;
+  background: #5C07E2;
+}
